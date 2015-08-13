@@ -1,0 +1,18 @@
+body {
+  font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.main {
+    margin-top: 200px;
+}
+#phone {
+  margin-top: 30px;
+  width: 160px;
+  height: 20px;
+}
+
+.pickup {
+
+}
